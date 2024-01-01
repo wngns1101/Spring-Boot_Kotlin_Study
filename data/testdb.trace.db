@@ -1,0 +1,6 @@
+2024-01-01 16:25:57.123724+09:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select * from messages where id = e13a2e75-037[*]b-4f6e-8a1d-fbd9508f884f"; SQL statement:
+select * from messages where id = e13a2e75-037b-4f6e-8a1d-fbd9508f884f [42000-224]
+2024-01-01 16:32:01.911704+09:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select * from messages where id = e13a2e75-037[*]b-4f6e-8a1d-fbd9508f884f"; SQL statement:
+select * from messages where id = e13a2e75-037b-4f6e-8a1d-fbd9508f884f [42000-224]
